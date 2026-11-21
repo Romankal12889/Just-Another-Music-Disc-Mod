@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": { "#": "#minecraft:planks", "J": "minecraft:jukebox" },
+  "pattern": [ "###", "#J#", "###" ],
+  "result": { "id": "just-another-music-disc-mod:music_table", "count": 1 }
+}

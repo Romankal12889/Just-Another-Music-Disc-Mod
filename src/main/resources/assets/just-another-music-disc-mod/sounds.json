@@ -1,0 +1,6 @@
+{
+  "custom_disc_silent": { "sounds": [] },
+  "custom_stream": {
+    "sounds": [ { "name": "just-another-music-disc-mod:custom_stream", "stream": true } ]
+  }
+}

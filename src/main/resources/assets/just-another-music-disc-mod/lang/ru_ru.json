@@ -1,0 +1,11 @@
+{
+  "block.just-another-music-disc-mod.music_table": "Музыкальный стол",
+  "item.just-another-music-disc-mod.custom_disc": "Пользовательская пластинка",
+  "item.just-another-music-disc-mod.custom_disc.desc": "Пользовательская пластинка",
+  "item.just-another-music-disc-mod.custom_disc.named": "Пластинка: %s",
+  "container.just-another-music-disc-mod.music_table": "Музыкальный стол",
+  "gui.just-another-music-disc-mod.select_file": "Выбрать файл",
+  "gui.just-another-music-disc-mod.paste_link": "Вставить ссылку",
+  "message.just-another-music-disc-mod.upload_rejected": "Загрузка отклонена. Попробуйте еще раз",
+  "message.just-another-music-disc-mod.bad_file": "Это не файл .ogg или .wav."
+}

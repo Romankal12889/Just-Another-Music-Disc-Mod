@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "just-another-music-disc-mod",
+	"version": "1.0.0",
+	"name": "Just Another Music Disc Mod",
+	"description": "Create custom music discs from your own audio files at the Music Table.",
+	"authors": [
+		"Roman"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/just-another-music-disc-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "jamdm.lol.MusicTableMod",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "jamdm.lol.client.MusicTableClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"just-another-music-disc-mod.mixins.json",
+		{
+			"config": "just-another-music-disc-mod.client.mixins.json",
+			"environment": "client"
+		},
+		{
+			"config": "jamdm.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}

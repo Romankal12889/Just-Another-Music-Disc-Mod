@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "jamdm.lol.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [ "SoundBufferLibraryMixin" ],
+  "injectors": { "defaultRequire": 1 }
+}

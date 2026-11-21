@@ -1,0 +1,11 @@
+{
+  "block.just-another-music-disc-mod.music_table": "Music Table",
+  "item.just-another-music-disc-mod.custom_disc": "Custom Music Disc",
+  "item.just-another-music-disc-mod.custom_disc.desc": "Custom Music Disc",
+  "item.just-another-music-disc-mod.custom_disc.named": "Music Disc: %s",
+  "container.just-another-music-disc-mod.music_table": "Music Table",
+  "gui.just-another-music-disc-mod.select_file": "Select file",
+  "message.just-another-music-disc-mod.upload_rejected": "The Music Table rejected that upload.",
+  "message.just-another-music-disc-mod.bad_file": "That file is not a valid .ogg or .wav.",
+  "gui.just-another-music-disc-mod.paste_link": "Paste link"
+}

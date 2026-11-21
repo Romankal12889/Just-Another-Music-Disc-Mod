@@ -1,0 +1,6 @@
+{
+  "sound_event": "just-another-music-disc-mod:custom_disc_silent",
+  "description": { "translate": "item.just-another-music-disc-mod.custom_disc.desc" },
+  "length_in_seconds": 3600.0,
+  "comparator_output": 15
+}
