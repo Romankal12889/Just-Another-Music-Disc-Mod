@@ -2,7 +2,7 @@
 
 ## Setup
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+Install Fabric Loader, 1.21.11 minecraft version, then install 2 deps: fabric language kotlin and fabric api and there u go!
 
 ## License
 
